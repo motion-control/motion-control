@@ -1,0 +1,1204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ll",
+				"L_left_side\tstatement"
+			],
+			[
+				"L",
+				"L_side"
+			],
+			[
+				"e",
+				"extension\tstatement"
+			],
+			[
+				"sb",
+				"sb_length\tstatement"
+			],
+			[
+				"b",
+				"Beam_Spliter\tfunction"
+			],
+			[
+				"g",
+				"g_spot\tfunction"
+			],
+			[
+				"lsi",
+				"L_side\tstatement"
+			],
+			[
+				"lar",
+				"L_arm\tstatement"
+			],
+			[
+				"ls",
+				"L_side\tstatement"
+			],
+			[
+				"zz",
+				"zz_2\tstatement"
+			],
+			[
+				"la",
+				"L_arm\tstatement"
+			],
+			[
+				"ma",
+				"x_max"
+			],
+			[
+				"xl",
+				"xlim\tfunction"
+			],
+			[
+				"ar",
+				"Arms_1\tfunction"
+			],
+			[
+				"Cr",
+				"Cr_or_LN\tparam"
+			],
+			[
+				"w",
+				"width_Cr"
+			],
+			[
+				"xa",
+				"x_arms_1\tstatement"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"C",
+				"Cr_or_LN"
+			],
+			[
+				"width",
+				"width_Cr"
+			],
+			[
+				"layer",
+				"layer_LN\tparam"
+			],
+			[
+				"wi",
+				"width_LN\tparam"
+			],
+			[
+				"beam_spli",
+				"Beam_Spliter\tfunction"
+			],
+			[
+				"xbs",
+				"x_BS_2\tstatement"
+			],
+			[
+				"x",
+				"x_BS_1\tstatement"
+			],
+			[
+				"sb_",
+				"sb_length"
+			],
+			[
+				"de",
+				"directory\tstatement"
+			],
+			[
+				"uni",
+				"Unitary_Operator_3lay\tclass"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"dei",
+				"directory"
+			],
+			[
+				"n",
+				"n_layer"
+			],
+			[
+				"X",
+				"X_track\tstatement"
+			],
+			[
+				"y",
+				"Y_reg\tstatement"
+			],
+			[
+				"yi",
+				"y_inc_or_dec"
+			],
+			[
+				"wid",
+				"width_LN"
+			],
+			[
+				"be",
+				"bezier_s_bent\tfunction"
+			],
+			[
+				"fi",
+				"FILE\tstatement"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"MO",
+				"Motion_Modules\tmodule"
+			],
+			[
+				"s",
+				"step\tparam"
+			],
+			[
+				"bezi",
+				"bezier_s_bent_back\tfunction"
+			],
+			[
+				"end",
+				"end_point"
+			],
+			[
+				"Y",
+				"Y_reg\tstatement"
+			],
+			[
+				"lay",
+				"layer_LN"
+			],
+			[
+				"en",
+				"end_x\tstatement"
+			],
+			[
+				"py",
+				"Py\tstatement"
+			],
+			[
+				"ba",
+				"bezier_cubic_calculator"
+			],
+			[
+				"tm",
+				"t_min\tstatement"
+			],
+			[
+				"Bas",
+				"Basic_Motion"
+			],
+			[
+				"file",
+				"FILE"
+			],
+			[
+				"MOVE",
+				"MOVEDONE"
+			],
+			[
+				"l",
+				"l_sum\tstatement"
+			],
+			[
+				"st",
+				"step\tparam"
+			],
+			[
+				"for",
+				"format\tfunction"
+			],
+			[
+				"end_",
+				"end_angle"
+			],
+			[
+				"Pi",
+				"pi\tinstance"
+			],
+			[
+				"di",
+				"directory\tstatement"
+			],
+			[
+				"gl",
+				"g_line\tfunction"
+			],
+			[
+				"f",
+				"format\tfunction"
+			],
+			[
+				"bas",
+				"basic\tmodule"
+			],
+			[
+				"ww",
+				"w_wg"
+			],
+			[
+				"Lsi",
+				"L_side_1"
+			],
+			[
+				"laye",
+				"layer_LN"
+			],
+			[
+				"double",
+				"double_disks"
+			],
+			[
+				"arm",
+				"arm_middle"
+			],
+			[
+				"widt",
+				"width_side"
+			],
+			[
+				"slo",
+				"slow_or_fast"
+			],
+			[
+				"reg",
+				"reg_Y"
+			],
+			[
+				"vel",
+				"velocity_slow"
+			],
+			[
+				"g_sb",
+				"g_sbend_back"
+			],
+			[
+				"sbend",
+				"sbend_height"
+			],
+			[
+				"gbs",
+				"g_BS_3"
+			],
+			[
+				"dfdt",
+				"dfdT\tstatement"
+			],
+			[
+				"dfd",
+				"dfdT\tstatement"
+			],
+			[
+				"al",
+				"alpha_n_o\tstatement"
+			],
+			[
+				"cl",
+				"Cr_layer"
+			],
+			[
+				"lnl",
+				"LN_layer_slow"
+			],
+			[
+				"insi",
+				"inside_1"
+			],
+			[
+				"gb",
+				"g_BS_4"
+			],
+			[
+				"sl",
+				"layer_slow"
+			],
+			[
+				"r",
+				"r_bend"
+			],
+			[
+				"ge",
+				"get_data\tfunction"
+			],
+			[
+				"_s",
+				"_Str\tstatement"
+			],
+			[
+				"str",
+				"_Str"
+			],
+			[
+				"A",
+				"Arc_CCW\tfunction"
+			],
+			[
+				"St",
+				"_Str\tstatement"
+			],
+			[
+				"theta",
+				"theta_start\tstatement"
+			],
+			[
+				"th",
+				"Theta2point\tfunction"
+			],
+			[
+				"res",
+				"_Resolution\tstatement"
+			],
+			[
+				"ve",
+				"Vect_y"
+			],
+			[
+				"Ve",
+				"Vect_x"
+			],
+			[
+				"d",
+				"d_theta\tstatement"
+			],
+			[
+				"the",
+				"theta_end\tstatement"
+			],
+			[
+				"vec",
+				"Vect_y_end\tstatement"
+			],
+			[
+				"vy",
+				"Vect_y_start\tstatement"
+			],
+			[
+				"Vec",
+				"Vect_x\tparam"
+			],
+			[
+				"out",
+				"outside"
+			],
+			[
+				"nl",
+				"n_layer_slow"
+			],
+			[
+				"re",
+				"real_step"
+			],
+			[
+				"La",
+				"\\Lambda"
+			],
+			[
+				"fra",
+				"\\frac{}{}"
+			],
+			[
+				"rand",
+				"Rand\tstatement"
+			],
+			[
+				"rho",
+				"rho_r\tstatement"
+			],
+			[
+				"ra",
+				"random\tstatement"
+			],
+			[
+				"com",
+				"complex\tclass"
+			],
+			[
+				"lam",
+				"lambda_p\tstatement"
+			],
+			[
+				"lamb",
+				"lambda_s\tstatement"
+			],
+			[
+				"ro",
+				"\\rho"
+			],
+			[
+				"bol",
+				"\\boldmath"
+			],
+			[
+				"gs",
+				"g_sbend_back"
+			],
+			[
+				"fas",
+				"fast_0"
+			],
+			[
+				"inside",
+				"inside_0"
+			],
+			[
+				"outs",
+				"outside_1"
+			],
+			[
+				"co",
+				"\\color"
+			],
+			[
+				"in",
+				"inside_fast_1"
+			],
+			[
+				"cy",
+				"c_y_0"
+			],
+			[
+				"cx",
+				"c_x_0"
+			],
+			[
+				"h",
+				"sbend_height"
+			],
+			[
+				"outside",
+				"outside_1"
+			],
+			[
+				"outsi",
+				"outside_0"
+			],
+			[
+				"dc_",
+				"dc_03"
+			],
+			[
+				"ring",
+				"ring_fast"
+			],
+			[
+				"cen",
+				"center_y_ring"
+			],
+			[
+				"H",
+				"H_basic"
+			],
+			[
+				"rin",
+				"r_in"
+			],
+			[
+				"center_y_",
+				"center_y_2"
+			],
+			[
+				"ga",
+				"g_arc"
+			],
+			[
+				"rd",
+				"r_de"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Unitary_Operator_3lay.py",
+			"settings":
+			{
+				"buffer_size": 12350,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"C++ Project",
+					""
+				],
+				[
+					"C++ Project",
+					"Clean"
+				],
+				[
+					"C++ Project",
+					"Run"
+				]
+			],
+			[
+				"C++ Project",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/BuildLaTeXFiles.sublime-build",
+					""
+				],
+				[
+					"Packages/BuildLaTeXFiles.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/BuildLaTeXFiles.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					"Force"
+				]
+			],
+			[
+				"Packages/LaTeXBox/support/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX (TikZ).sublime-build",
+				"Clean up Files"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				]
+			],
+			[
+				"Packages/LaTeXing/LaTeX.sublime-build",
+				"Clean up Files"
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXing/LaTeX.sublime-build",
+					"Clean up Files"
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXBox/support/LaTeX.sublime-build",
+					"Force"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				"LuaLaTeX"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/My cpp.sublime-build",
+					""
+				],
+				[
+					"Packages/User/My cpp.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/My cpp.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pro",
+		"selected_items":
+		[
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"projedit",
+				"Project: Edit Project"
+			],
+			[
+				"projs",
+				"Project: Save As"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"latexword",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"side",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: Filter by tags under cursors"
+			],
+			[
+				"word",
+				"LaTeXTools: Show word count"
+			],
+			[
+				"gitgutter",
+				"Preferences: GitGutter Settings"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"tlpmr",
+				"TeX Live Package Manager: Manage Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Preferences: LaTeXing Settings - Default"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wurongbo/Library/Mobile Documents/iCloud~com~omz-software~Pythonista3/Documents/Motion_Control"
+	],
+	"file_history":
+	[
+		"/Users/wurongbo/Desktop/Motion_Control/Motion_Modules/Motion_Modules.py",
+		"/Users/wurongbo/Desktop/Motion_Control/Unitary_Operator_3lay.py",
+		"/Users/wurongbo/Desktop/Motion_Control/main.py",
+		"/System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/matplotlib/axes.py",
+		"/Users/wurongbo/Desktop/Motion_Control/Basic/Code_Visualization.py",
+		"/Users/wurongbo/Desktop/Motion_Control/Basic/Basic_Motion.py",
+		"/Users/wurongbo/Desktop/Motion_Control/code/test/test.txt",
+		"/Users/wurongbo/Desktop/Motion_Control/test.txt",
+		"/Users/wurongbo/Desktop/Motion_Control/Motion_Modules/__init__.py",
+		"/Users/wurongbo/Desktop/Motion Control/main.py",
+		"/Users/wurongbo/Desktop/Motion Control/Motion Control.sublime-workspace",
+		"/Users/wurongbo/Desktop/Motion Control/Motion Control.sublime-project",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/A_g_reader/g_reader.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/file/basic_data.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/file/file_write.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/motion/basic_motion.py",
+		"/Users/wurongbo/Desktop/Motion Control/test.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/motion/test.py",
+		"/Users/wurongbo/Desktop/Motion Control/motion_control.sublime-project",
+		"/Users/wurongbo/Desktop/Motion Control/basic/__init__.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/motion/__init__.py",
+		"/Users/wurongbo/Desktop/Motion Control/basic/file/__init__.py",
+		"/Users/wurongbo/Desktop/g-code/g_code/gcode.sublime-project",
+		"/Users/wurongbo/Downloads/gcode.h",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_waveguide_new.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/PPLN.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/double_disks.cpp",
+		"/Users/wurongbo/Desktop/20190215/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_basic.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/perfect_MZI.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/electrode.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/main.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/Test.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/racetrack.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/gcode.h",
+		"/Users/wurongbo/Desktop/g-code/g_code/PPLN_new.cpp",
+		"/Users/wurongbo/Desktop/20181225/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/A_g_reader/test.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_BS_5/LN_outside_1_1.txt",
+		"/Users/wurongbo/Desktop/20181219/main.tex",
+		"/Users/wurongbo/Desktop/Calculater/calculator.py",
+		"/Users/wurongbo/Library/Application Support/Alfred 3/Workflow Data/net.deanishe.alfred.fixum/blacklist.txt",
+		"/Users/wurongbo/Desktop/PPLN/ppt.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/bezier_bend.cpp",
+		"/Users/wurongbo/Desktop/draw FIB picture/FIB.py",
+		"/Users/wurongbo/Desktop/PPLN/PPLN.py",
+		"/Users/wurongbo/Desktop/PPLN/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/bent_wg.cpp",
+		"/Users/wurongbo/Desktop/20181109/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/straight_wg.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/MZI.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/counter.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_BS.cpp",
+		"/Users/wurongbo/Downloads/尤物宝宝啪啪啪4部全合集第4部/资源声明.txt",
+		"/Users/wurongbo/Desktop/20181012/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_BS/outside_0.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/test.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/waveguide_b.cpp",
+		"/Users/wurongbo/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.AD302524-742E-449F-A4ED-EF5562FF3AF9/Unit_Converter.py",
+		"/Users/wurongbo/Desktop/20180831/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_waveguide_2/outside.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/waveguide_2.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_ring_2.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_ring_2/arc.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_racetrack_new/inside_gap.txt",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180831/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_quarter_cir.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_quarter_cir/arc_0_inside.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_waveguide.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_test.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_lense.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_ring_wg_cp.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_disk.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_ring.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_waveguide/inside.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_ring.txt",
+		"/Volumes/Rongbo Wu data/Share/work/trans.txt",
+		"/Volumes/DIFENG/g_lense_new.pgm",
+		"/Users/wurongbo/Downloads/视频站启用html5播放器.user.js",
+		"/Users/wurongbo/Desktop/20180817/main.tex",
+		"/Users/wurongbo/Desktop/20180810/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/gcode.sublime-workspace",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180803/ppt/main.tex",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_disk.txt",
+		"/Volumes/NO NAME/g_code/未命名文件夹/g_waveguide.cpp",
+		"/Volumes/O/Otin/A学习/python/final/1.py",
+		"/Volumes/O/Otin/A学习/python/final/test for randdraw.py",
+		"/Volumes/O/Otin/A学习/python/final/test for matrix.py",
+		"/Volumes/O/Otin/A学习/python/mycode/test4.py",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_ring_wg_cp2.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_racetrack.cpp",
+		"/Users/wurongbo/Desktop/20180706/main.tex",
+		"/Users/wurongbo/Desktop/test.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/g_clip_like_wg.cpp",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_clip_like_wg04.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_clip_like_wg03.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_clip_like_wg02.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_clip_like_wg01.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_clip_like_wg00.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_ring_wg_cp2.txt",
+		"/Users/wurongbo/Desktop/g-code/g_code/code/g_ring_wg_cp.txt",
+		"/Users/wurongbo/Desktop/g-code/gcode.sublime-project",
+		"/Users/wurongbo/Desktop/g-code/g_code_creater.cpp",
+		"/Users/wurongbo/Desktop/g-code/old/test.cpp",
+		"/Users/wurongbo/Desktop/g-code/test.cpp",
+		"/Users/wurongbo/Desktop/g-code/plot.py",
+		"/Users/wurongbo/Desktop/g-code/g_code.txt",
+		"/private/var/folders/29/21s275mx1yj_94rzvp72z52m0000gn/T/BetterZip 临时文件夹.OCNxji/BetterZip 临时文件夹.8sQHO1/侏罗纪公园 Sup特效字幕下载链接-百度网盘.txt",
+		"/Users/wurongbo/Desktop/20180622/main.tex",
+		"/Users/wurongbo/Desktop/move cpp/plot.py",
+		"/Users/wurongbo/Desktop/move cpp/test.cpp",
+		"/Users/wurongbo/Desktop/move cpp/test.txt",
+		"/Users/wurongbo/Library/Application Support/Sublime Text 3/Packages/User/My cpp.sublime-build",
+		"/Volumes/Rongbo Wu data/Share/work/test.cpp",
+		"/Volumes/Rongbo Wu data/Share/New_file++.txt",
+		"/Volumes/Rongbo Wu data/Share/New_file.txt",
+		"/Volumes/Rongbo Wu data/Share/新建文本文档.txt",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180525/ppt/main.tex",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180517/ppt/main.tex",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180502/main.tex",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/专利/New_file.txt",
+		"/Users/wurongbo/Desktop/New_file.txt",
+		"/Users/wurongbo/Desktop/calculator.py",
+		"/Users/wurongbo/Library/Application Support/Alfred 3/Alfred.alfredpreferences/workflows/user.workflow.AD302524-742E-449F-A4ED-EF5562FF3AF9/main.py",
+		"/Volumes/Rongbo Wu data/Share/work/polishing/20180412/main.tex",
+		"/Users/wurongbo/GitHub/LeetCode/链表/Chain.py",
+		"/Users/wurongbo/GitHub/LeetCode/20/main.py",
+		"/Users/wurongbo/GitHub/LeetCode/19/main.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Unitary_Operator_3lay.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 121.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 125.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.tlmgr":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 184.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "Motion_Control.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GitHub/Double_disks_QPM/Calculate/Dirivation/APS and AIP/test.tex"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
